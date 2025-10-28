@@ -39,11 +39,20 @@
 
 <div align="Center">
 
-| Frontend | Backend | Programming | Frameworks |  Software |
-| ------------- | ------------- | ------------- | ------------- |  ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres"/> | <img src="https://skillicons.dev/icons?i=py,c,java"/> | <img src="https://skillicons.dev/icons?i=django, flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
+| Frontend | Backend | Programming | 
+| ------------- | ------------- |  ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js"/> | <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres"/> | <img src="https://skillicons.dev/icons?i=py,c,java"/> |
 
 </div>
+
+<div align="Center">
+
+| Frontend | Backend | 
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=django, flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
+
+</div>
+
 
 <!--
 **enridami/enridami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
