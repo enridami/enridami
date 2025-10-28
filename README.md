@@ -62,6 +62,20 @@
 
 </div>
 
-| Snake Eating Contributions in the last year |
-| ------------------------------------------|
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+## Contact me
+<p align="center">
+<br>
+<a href="https://www.facebook.com/EnriqueSuica/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/enridami9"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/edsuica/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:enri124589@gmail.com?subject=Hola%20Enrique"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+
+<br>
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/enridami" />
+</p>
+
+<div align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5veG9rc3p5a3c5Z3E0d2h3NWs4cHh6YTg4Mmh1ODdlb3gzOHBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+</div>
