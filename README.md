@@ -26,11 +26,7 @@
 </ul>
 </p>
 
-<hr/>
-<!-- stats -->
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=enridami&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-</p>
+
 <hr/>
 
 <div align="Center">
@@ -65,3 +61,16 @@
 
 
 </div>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="enri124589@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/enridami9"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/enridami9](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
+------
+
+Credit: [enridami](https:www.github.com/enridami)
+Last edit on: 27/10/2025
