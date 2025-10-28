@@ -47,9 +47,9 @@
 
 <div align="Center">
 
-| Frontend | Backend | 
+| Frameworks | Software | 
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=django, flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
+| <img src="https://skillicons.dev/icons?i=django,flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
 
 </div>
 
