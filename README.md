@@ -73,7 +73,7 @@
 
 <br>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/enridami" />
+    <img src="https://komarev.com/ghpvc/?username=enridami&style=flat-square&color=blue" alt=""/>
 </p>
 
 <div align="center">
