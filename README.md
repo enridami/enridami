@@ -20,7 +20,7 @@
     🧑‍💻 I love using Software as a solution for every Problem.
     </li>
     <li>
-    🌱 I’m currently learning Django and Flask.
+    🌱 I’m currently learning Spring Boot.
     </li>
 
 </ul>
