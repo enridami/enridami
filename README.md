@@ -20,7 +20,7 @@
     🧑‍💻 I love using Software as a solution for every Problem.
     </li>
     <li>
-    🌱 I’m currently learning Spring Boot.
+    🌱 I’m currently learning Fast API.
     </li>
 
 </ul>
@@ -45,7 +45,7 @@
 
 | Frameworks | Software | 
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=spring,django,flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
+| <img src="https://skillicons.dev/icons?i=django,flask,bootstrap"/> | <img src="https://skillicons.dev/icons?i=linux,bash,vscode,git,github,pycharm,discord,notion"/> |
 
 </div>
 
