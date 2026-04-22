@@ -20,7 +20,7 @@
     🧑‍💻 I love using Software as a solution for every Problem.
     </li>
     <li>
-    🌱 I’m currently learning Fast API.
+    🌱 I’m currently learning Django REST & Fast API.
     </li>
 
 </ul>
