@@ -89,8 +89,6 @@
     <img src="https://komarev.com/ghpvc/?username=enridami&style=flat-square&color=blue" alt=""/>
 </p>
 
-<div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5veG9rc3p5a3c5Z3E0d2h3NWs4cHh6YTg4Mmh1ODdlb3gzOHBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-</div>
+
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5veG9rc3p5a3c5Z3E0d2h3NWs4cHh6YTg4Mmh1ODdlb3gzOHBkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
